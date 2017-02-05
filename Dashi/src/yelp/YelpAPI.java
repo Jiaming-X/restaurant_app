@@ -16,7 +16,7 @@ public class YelpAPI {
 	private static final int SEARCH_LIMIT = 20;
 	private static final String SEARCH_PATH = "/v2/search";
 	
-	// credential from Yelp
+	// credential
 	private static final String CONSUMER_KEY = "";
 	private static final String CONSUMER_SECRET = "";
 	private static final String TOKEN = "";
